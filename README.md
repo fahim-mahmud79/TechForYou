@@ -1,3 +1,7 @@
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <h1 align="center">Hi 👋, I'm FAHIM MAHMUD</h1>
 <h3 align="start">I'm a frontend developer who loves to play with the keys of keyboard in case of visualising new ideas!!</h3>
 
@@ -8,7 +12,6 @@
 - 📫 How to reach me **fahim.mahmud779@gmail.com**
 
 - ⚡ Fun fact **is I think I'm funnier than you😉**
-
 
 
 <h3 align="left">Languages and Tools:</h3>
